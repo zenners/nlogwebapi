@@ -1,0 +1,11 @@
+C:\Users\63917\source\repos\LoggerTest\LoggerService\bin\Debug\netcoreapp3.0\Contracts.dll
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csprojAssemblyReference.cache
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfoInputs.cache
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.AssemblyInfo.cs
+C:\Users\63917\source\repos\LoggerTest\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.deps.json
+C:\Users\63917\source\repos\LoggerTest\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\63917\source\repos\LoggerTest\LoggerService\bin\Debug\netcoreapp3.0\LoggerService.pdb
+C:\Users\63917\source\repos\LoggerTest\LoggerService\bin\Debug\netcoreapp3.0\Contracts.pdb
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.csproj.CopyComplete
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.dll
+C:\Users\63917\source\repos\LoggerTest\LoggerService\obj\Debug\netcoreapp3.0\LoggerService.pdb
